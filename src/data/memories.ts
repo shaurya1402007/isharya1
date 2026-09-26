@@ -1,0 +1,88 @@
+import { Memory } from '../types';
+
+export const INITIAL_MEMORIES: Memory[] = [
+  {
+    id: 'memory-1',
+    title: 'The Boutique Mirror',
+    subtitle: 'The way your eyes looked at mine',
+    date: 'Autumn Afternoon',
+    location: 'Urban Boutique',
+    tag: 'Favorite Look',
+    mood: 'Adoring & Stylish',
+    colorAccent: '#E11D48',
+    quote: 'In a bustling room full of people, my eyes will always search only for you.',
+    personalNote:
+      'We were trying on jackets, laughing at ridiculous outfits, and suddenly you leaned in wearing that crimson scarf and looked up at me. That exact split second in the mirror made my heart stop.',
+    imageUrl: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    id: 'memory-2',
+    title: 'The Red Thread of Fate',
+    subtitle: 'Bound by destiny, hand in hand',
+    date: 'A Promise Kept',
+    location: 'Our Sacred Space',
+    tag: 'Eternal Bond',
+    mood: 'Sacred & Tender',
+    colorAccent: '#EF4444',
+    quote: 'An invisible red thread connects those who are destined to meet, regardless of time or place.',
+    personalNote:
+      'When we tied that red ribbon around our wrists and held each other tight, it was not just a string. It was a silent promise that wherever life leads us, our hands will never let go.',
+    imageUrl: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    id: 'memory-3',
+    title: 'Golden Hour Reverie',
+    subtitle: 'When the sunset kissed your skin',
+    date: 'Golden Twilight',
+    location: 'Road Trip Back Home',
+    tag: 'Serenity',
+    mood: 'Warm & Dreamy',
+    colorAccent: '#F59E0B',
+    quote: 'Even the most breathtaking sunset fades when you smile next to me.',
+    personalNote:
+      'The car was moving smoothly, evening sun pouring golden light through the window glass onto your cheek. You adjusted your kurti and smiled, and I wished that drive would last forever.',
+    imageUrl: 'https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    id: 'memory-4',
+    title: 'The Rickshaw Joyride',
+    subtitle: 'Floating hearts & unscripted laughter',
+    date: 'Wild City Breeze',
+    location: 'Through the City Streets',
+    tag: 'Pure Happiness',
+    mood: 'Playful & Carefree',
+    colorAccent: '#EC4899',
+    quote: 'With you, even the simplest auto ride turns into our private wonderland.',
+    personalNote:
+      'Wind in our hair, bumping over every speedbreaker, taking goofy upside-down selfies with pink hearts in the air! You were laughing so hard your eyes crinkled. I love your crazy laughter more than anything.',
+    imageUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    id: 'memory-5',
+    title: 'Sunlit Radiance',
+    subtitle: 'Pinstripes, clear skies & your dimples',
+    date: 'Sunny Morning Stroll',
+    location: 'Under Open Canopies',
+    tag: 'Favorite Morning',
+    mood: 'Radiant & Glowing',
+    colorAccent: '#38BDF8',
+    quote: 'Your smile is the sunrise my heart looks forward to every single day.',
+    personalNote:
+      'The morning air was crisp and warm. We stood side by side, leaning together so closely that our breaths synced. You looked angelic in the bright daylight.',
+    imageUrl: 'https://images.unsplash.com/photo-1494774157365-9e04c6720e47?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    id: 'memory-6',
+    title: 'Head On My Shoulder',
+    subtitle: 'In your warmth, I found my home',
+    date: 'A Quiet Heartbeat',
+    location: 'Safe in Each Other',
+    tag: 'My Safe Haven',
+    mood: 'Deep Comfort & Soul',
+    colorAccent: '#FB7185',
+    quote: 'Rest your head right here. As long as I have you, I have everything I will ever need.',
+    personalNote:
+      'When you gently rested your cheek on my jacket and closed your eyes with that contented little smile, all the noise in the universe went silent. Just you, me, and our heartbeat. Isharya forever.',
+    imageUrl: 'https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=1200&auto=format&fit=crop',
+  },
+];

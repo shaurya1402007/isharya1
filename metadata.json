@@ -1,0 +1,6 @@
+{
+  "name": "Isharya — A 3D Cinematic Love Story",
+  "description": "An ultra-luxurious, immersive 3D interactive memory showcase celebrating Isharya with realistic 3D carousel sliding, depth physics, and heartfelt moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
